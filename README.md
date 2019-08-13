@@ -25,6 +25,11 @@ If you got a satisfactory answer, sure — hit the “close issue” button, an
 Anything pertaining to using Pollen — questions, suggestions, feature requests, etc.
 
 
+### Can I search issues?
+
+Yes. Use the search box in the nav bar, which will search this repository (including all the Issues).
+
+
 ### To receive email notification of responses
 
 If you start a new topic or add a response, you’ll automatically get email notification of subsequent messages posted to that thread.
