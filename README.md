@@ -27,7 +27,7 @@ If you got a satisfactory answer, sure — hit the “close issue” button, an
 
 ### Can I search issues?
 
-Yes. Use the search box in the top nav bar, which will search this repository (including all the Issues).
+Yes. Use the search box in the top nav bar, which will search this repository (including all the issues).
 
 
 ### To receive email notification of responses
