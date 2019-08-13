@@ -27,7 +27,7 @@ Anything pertaining to using Pollen — questions, suggestions, feature request
 
 ### Can I search issues?
 
-Yes. Use the search box in the nav bar, which will search this repository (including all the Issues).
+Yes. Use the search box in the top nav bar, which will search this repository (including all the Issues).
 
 
 ### To receive email notification of responses
