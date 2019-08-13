@@ -15,14 +15,16 @@ No login necessary. All activity happens under the [Issues](https://github.com/m
 You need a GitHub account (free; email address needed). Then [post a new issue](https://github.com/mbutterick/pollen-users/issues/new).
 
 
+### What kinds of topics can be posted here?
+
+Anything pertaining to using Pollen — questions, suggestions, feature requests, etc.
+
+
 ### After I post a question, when should I use the “close issue” button?
 
 If you got a satisfactory answer, sure — hit the “close issue” button, and then others will know that no further reply is needed. BTW closing an issue doesn’t delete it or prevent further discussion post-closure. The issue can also be reopened if you change your mind.
 
 
-### What kinds of topics can be posted here?
-
-Anything pertaining to using Pollen — questions, suggestions, feature requests, etc.
 
 
 ### Can I search issues?
