@@ -12,7 +12,7 @@ No login necessary. All activity happens under the [Issues](https://github.com/m
 
 ### To post
 
-You need a GitHub account (free; email address needed). The [post a new thread](https://github.com/mbutterick/pollen-users/issues/new).
+You need a GitHub account (free; email address needed). Then [post a new issue](https://github.com/mbutterick/pollen-users/issues/new).
 
 
 ### After I post a question, when should I use the “close issue” button?
