@@ -1,6 +1,6 @@
 # pollen-users
 
-This is the official discussion area / mailing-list substitute for Pollen, a book-publishing system written in Racket. 
+This is the official discussion area / mailing-list substitute for [Pollen](https://pollenpub.com), a book-publishing system written in Racket.
 
 Questions, suggestions, announcements welcome. Your host: Matthew Butterick.
 
