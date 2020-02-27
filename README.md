@@ -17,7 +17,7 @@ You need a GitHub account (free; email address needed). Then [post a new issue](
 
 ### What kinds of topics can be posted here?
 
-Anything pertaining to using Pollen — questions, suggestions, feature requests, etc. (Don’t feel constrained by the fact that they are all known as “Issues”.)
+Anything pertaining to using Pollen or Quad — questions, suggestions, feature requests, etc. (Don’t feel constrained by the fact that they are all known as “Issues”.)
 
 
 ### After I post a question, when should I use the “close issue” button?
@@ -39,17 +39,17 @@ If you start a new issue or post a response, you’ll automatically get email no
 That is, in the classic mailing-list style. At the top of the screen, use the “Watch” button to change your status to “Watching”.
 
 
-### Does this replace the Pollen source repository?
+### Does this replace the Pollen or Quad source repository?
 
-No. That remains at https://github.com/mbutterick/pollen.
-
-
-### Should I post Pollen bugs here or there?
-
-Probably [over there](https://github.com/mbutterick/pollen), though I’m not going to be finicky about it.
+No. Those remain at https://github.com/mbutterick/pollen and https://github.com/mbutterick/quad, respectively.
 
 
-### Why not consolidate all the issues over there?
+### Where should I post bugs?
 
-I prefer to restrict the issues in the Pollen source repository to coding-related tasks.
+Probably on the source repo, though I’m not going to be finicky about it.
+
+
+### Why not consolidate all the issues in the source repo?
+
+I prefer to restrict the issues in the source repos to coding-related tasks.
 
