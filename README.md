@@ -49,7 +49,7 @@ No. Those remain at https://github.com/mbutterick/pollen and https://github.com/
 Probably on the source repo, though I’m not going to be finicky about it.
 
 
-### Why not consolidate all the issues in the source repo?
+### Why not consolidate all the issues in the source repos?
 
 I prefer to restrict the issues in the source repos to coding-related tasks.
 
