@@ -1,6 +1,6 @@
 # pollen-users
 
-This is the official discussion area / mailing-list substitute for [Pollen](https://pollenpub.com), a book-publishing system written in Racket.
+This is the official discussion area / mailing-list substitute for [Pollen](https://pollenpub.com), a book-publishing system written in Racket, as well as the related project [Quad](https://docs.racket-lang.org/quad/), a document processor that converts markup to PDF and cooperates nicely with Pollen.
 
 Questions, suggestions, announcements welcome. Your host: Matthew Butterick.
 
