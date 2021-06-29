@@ -1,4 +1,4 @@
-# pollen-users [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md) 
+# pollen-users [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 This is the official discussion area / mailing-list substitute for [Pollen](https://pollenpub.com), a book-publishing system written in Racket, as well as the related project [Quad](https://docs.racket-lang.org/quad/), a document processor that converts markup to PDF and cooperates nicely with Pollen.
 
