@@ -2,8 +2,8 @@
 
 As part of a [general transition away](https://github.com/mbutterick/pollen-users/issues/131) from GitHub.
 
-## Your questions are welcome at the [Pollen discussion forum](https://forums.matthewbutterick.com/c/pollen/)
+## Your questions are welcome at the [Pollen discussion forum](https://forums.matthewbutterick.com/c/typesetting/)
 
-https://forums.matthewbutterick.com/c/pollen/
+https://forums.matthewbutterick.com/c/typesetting/
 
 
